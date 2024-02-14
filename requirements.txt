@@ -1,0 +1,5 @@
+fastapi~=0.109.0
+pydantic~=2.6.0
+SQLAlchemy~=1.4.51
+databases~=0.8.0
+Faker~=23.1.0
